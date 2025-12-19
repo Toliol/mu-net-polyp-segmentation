@@ -1,3 +1,8 @@
+![Paper](https://img.shields.io/badge/Paper-MDPI%20Diagnostics-blue)
+![Status](https://img.shields.io/badge/Status-Published-success)
+![Task](https://img.shields.io/badge/Task-Medical%20Image%20Segmentation-orange)
+![XAI](https://img.shields.io/badge/XAI-Grad--CAM%20%7C%20Saliency-red)
+
 # μ-Net: Colorectal Polyp Segmentation with Explainable AI
 
 📄 **Journal**: MDPI Diagnostics (2025)  
