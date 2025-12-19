@@ -22,6 +22,16 @@ The model integrates **multi-scale feature extraction**, **residual learning**, 
 
 ---
 
+## Repository Status
+
+This repository is intended to **support the published paper** on μ-Net for colorectal polyp segmentation.
+
+- The current version focuses on **architecture description, experimental setup, and reproducibility details**.
+- Full training and inference code will be released in a future update, subject to dataset licensing and institutional approvals.
+
+
+---
+
 ## Key Contributions
 
 - Proposed **μ-Net**, an enhanced U-Net–based architecture with **multi-branch μ-blocks** for rich feature representation.
