@@ -123,7 +123,7 @@ If you use this work, please cite:
   publisher={MDPI}
 }
 
-
+---
 ## Repository Status
 ⚠️ The full training and evaluation code will be released after institutional approval.  
 This repository currently documents the published architecture, methodology, and experimental setup.
